@@ -1,0 +1,5 @@
+set path=CProgram FilesJavajdk1.8.0_231bin;
+
+
+
+jave command to run the project
